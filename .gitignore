@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw dataset images
+data/images/
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db

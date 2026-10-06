@@ -1,0 +1,15 @@
+check,value,passed
+Metadata rows,10480,True
+Unique image IDs,10480,True
+Unique lesions,5240,True
+Ground-truth lesions,5240,True
+Duplicate image IDs,0,True
+Duplicate GT lesion IDs,0,True
+All lesions have 2 images,1,True
+All lesions have both image types,1,True
+Metadata lesions missing GT,0,True
+GT lesions missing metadata,0,True
+All lesions have one label,1,True
+JPEG files,10480,True
+Missing image files,0,True
+Unexpected image files,0,True
