@@ -1,0 +1,4 @@
+model,validation_macro_f1,test_macro_f1,metric
+ResNet18 baseline (M3),0.3658,0.3319,Argmax macro-F1
+ViT-B/16 frozen (M4),0.3127,0.3210,Argmax macro-F1
+ResNet18 moderate sampler (selected),0.3812,0.3702,Argmax macro-F1

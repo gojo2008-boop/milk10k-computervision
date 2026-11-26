@@ -1,0 +1,13 @@
+{
+  "split_source": "original project data/processed/image_dataset.csv; split == test",
+  "test_lesions": 1048,
+  "test_images": 1048,
+  "images_match_split_exactly": true,
+  "checkpoint": "resnet18_moderate_best.pth",
+  "checkpoint_epoch": 5,
+  "checkpoint_best_validation_macro_f1": 0.38124126555863547,
+  "test_argmax_macro_f1": 0.37018077928572113,
+  "test_threshold_0_5_one_vs_rest_macro_f1": 0.31608033096540566,
+  "test_accuracy": 0.6498091603053435,
+  "note": "Leaderboard score is computed on 479 blind lesions and is separate from this local held-out test evaluation."
+}

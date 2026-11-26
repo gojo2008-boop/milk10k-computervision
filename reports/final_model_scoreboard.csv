@@ -10,3 +10,6 @@ Random Forest,Texture + edges,Handcrafted features,0.1690088702278522,0.00169255
 SVM,Texture + edges,Handcrafted features,0.1705317113871246,0.006485599248195,,0.1825259362444653,0.2344070496336961,0.2891221374045801,,2.531059741973877
 Random Forest,Color,Handcrafted features,0.1838793123769926,0.0035717754538406,,0.1769369754704196,0.1813285137617512,0.5868320610687023,,1.7712905406951904
 Random Forest,Combined,Handcrafted features,0.1917712809691291,0.0103702419562447,,0.174143022440236,0.1814044120419473,0.5887404580152672,,1.895317554473877
+ResNet18 (moderate sampler),Images,Moderate class sampler; selected checkpoint,,,0.3812412656,0.3702,,,,
+ResNet18 (augmentation),Images,Augmented training,,,0.3722,,,,,
+ResNet18 (further fine-tuned),Images,Further full-network fine-tuning,,,0.3742,0.3262,,0.6355,,

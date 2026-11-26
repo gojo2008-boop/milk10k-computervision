@@ -1,0 +1,20 @@
+{
+  "submission_shape": [
+    479,
+    12
+  ],
+  "submission_columns_match": true,
+  "unique_lesions": 479,
+  "missing_values": 0,
+  "probability_row_sum_max_error": 2.755259636000318e-07,
+  "skin_tone_test_n": 1048,
+  "skin_tone_subgroup_n": {
+    "0": 2,
+    "1": 17,
+    "2": 113,
+    "3": 614,
+    "4": 223,
+    "5": 79
+  },
+  "python_scripts_compile": true
+}

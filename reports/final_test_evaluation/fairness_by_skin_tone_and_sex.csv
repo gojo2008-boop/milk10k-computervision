@@ -1,0 +1,9 @@
+grouping,group,n,macro_f1
+skin_tone_class,0,2,0.0
+skin_tone_class,1,17,0.224025974025974
+skin_tone_class,2,113,0.5066643445953791
+skin_tone_class,3,614,0.3334937850264072
+skin_tone_class,4,223,0.25851022214658576
+skin_tone_class,5,79,0.18902288188002475
+sex,female,412,0.3805165502732724
+sex,male,636,0.34814133131811825
