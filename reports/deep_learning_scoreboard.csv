@@ -1,0 +1,3 @@
+model,training_strategy,validation_macro_f1,test_macro_f1,test_accuracy,test_balanced_accuracy,test_loss
+ResNet18,Fine-tuned layer4 + FC,0.3658,0.3319,0.5496,0.3615,1.906
+ViT-B/16,Frozen backbone + trained head,0.3127,0.321,0.4857,0.3785,1.8166
